@@ -1,17 +1,17 @@
-from array import *
-from math import *
+# from array import *
+# from math import *
 
-numeros = array('i', [1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
-soma = 0
+# numeros = array('i', [1, 2, 3, 4, 5, 6, 7, 8, 9, 10])
+# soma = 0
 
-def find_sum(arr):
-  global soma
-  for elemento in arr:
-     soma += elemento
-  return soma
+# def find_sum(arr):
+#   global soma
+#   for elemento in arr:
+#      soma += elemento
+#   return soma
   
-resultado = find_sum(numeros)
-print(f'A soma desse números é igual a {resultado}.')  
+# resultado = find_sum(numeros)
+# print(f'A soma desse números é igual a {resultado}.')  
 
 
 

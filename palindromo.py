@@ -22,7 +22,7 @@ def palindromo(p1, p2):
 
 # Strings para teste
 string1 = "amor"
-string2 = "roma"
+string2 = "casa"
 
 # Chama a função palindromo para verificar se as strings são palíndromos
 resultado = palindromo(string1, string2)
